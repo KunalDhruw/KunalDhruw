@@ -28,7 +28,7 @@
  - HTML and CSS for creating structured and visually appealing web
    pages.
  -  JavaScript for adding interactivity and dynamic functionality to web pages.
- -  React and Redux for building scalable, maintainable, and performant single-page applications.
+ -  React and Redux for building scalable, maintainable, and performant single-page applications. <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
  -  Bootstrap for quickly creating responsive and visually appealing layouts.
  -  Java for building back-end systems and integrating them with front-end applications.
  -  Node.js for building server-side applications.
